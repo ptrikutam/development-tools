@@ -31,16 +31,14 @@
 
 * Dropbox
 * Cyberduck
-* VLC
-* Lightroom
 
 ### Development
 
 * iTerm
 * Sublime Text
 * RVM
-* Sass
-* Bourbon
+* [Sass](http://sass-lang.com/) - CSS Pre-processor Framework
+* [Compass](http://compass-style.org/) - CSS authoring framework. Useful for working with all the different vendor prefixes & managing your Sass.
 * Xcode
 
 * [Cloud9 IDE](https://c9.io/) - Cloud based, in-browser IDE.
