@@ -19,20 +19,25 @@
 * [TodoMVC](http://todomvc.com/) - Excellent tutorial & coverage of all the JavaScript MVC frameworks
 * [Ultimate Guide to Learning AngularJS in One Day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 
-## Development Tools / Libraries
+
+## Miscellaneous
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+# Development Tools / Libraries
 * [List of Web Developer / Designer Tools](http://www.designyourway.net/blog/resources/if-youre-a-web-designer-or-web-developer-youll-want-these-new-resources/)
 * [Perfect Workflow in Sublime Text](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
 
-### Back End
+## Back End
 
-#### Ruby 
+
+### Ruby 
 * [Sinatra](http://www.sinatrarb.com/) - Lightweight webserver with powerful capabilities
 * [NodeJS](http://nodejs.org/) - Webserver platform written in JavaScript
 
 
-### Front End
+## Front End
 
-#### General
+### General
 * [Zurb Foundation](http://foundation.zurb.com/) - Great Responsive Front-End Framework (HTML/CSS/JS)
 * [Bootstrap](http://getbootstrap.com/) - Another front-end framework
 
@@ -41,7 +46,7 @@
 
 * [TypeKit](https://typekit.com/) - Include real custom fonts on your website easily.
 
-#### JavaScript
+### JavaScript
 
 * [ExpressJS](http://expressjs.com/) - Web Application Framework for NodeJS
 
@@ -52,7 +57,7 @@
 
 * [CoffeScript](http://coffeescript.org/) - Simple Language that compiles into JS
 
-#### HTML/View/Markup
+### HTML/View/Markup
 * [Haml](http://haml.info/) - Simple templating language for generating HTML
 * [Mustache](http://mustache.github.io/) - Templating engine
 * [handlebars](http://handlebarsjs.com/) - A minimal templating system, compatible with Mustache
