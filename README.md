@@ -40,21 +40,15 @@
 ### General
 * [Zurb Foundation](http://foundation.zurb.com/) - Great Responsive Front-End Framework (HTML/CSS/JS)
 * [Bootstrap](http://getbootstrap.com/) - Another front-end framework
-
 * [Grunt](http://gruntjs.com/) - A JavaScript Task Runner
 * [Yeoman](http://yeoman.io/) - Combines Yo, Grunt, and Bower to create a workflow for writing web apps
-
 * [TypeKit](https://typekit.com/) - Include real custom fonts on your website easily.
 
 ### JavaScript
-
 * [ExpressJS](http://expressjs.com/) - Web Application Framework for NodeJS
-
 * [AngularJS](http://angularjs.org/) - Angular is a client-side MVC/MVVM framework built in JavaScript.
 * [BackboneJS](http://backbonejs.org/) - An MVC JavaScript Framework.
 * [Ember](http://emberjs.com/) - Another JavaScript Framework
-
-
 * [CoffeScript](http://coffeescript.org/) - Simple Language that compiles into JS
 
 ### HTML/View/Markup
