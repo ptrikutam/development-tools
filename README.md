@@ -3,7 +3,6 @@
 ## Algorithms
 * [Big O Cheat Sheet](http://bigocheatsheet.com/)
 
-	
 ## Languages
 
 ### Ruby
@@ -14,8 +13,6 @@
 
 ### Front End - HTML/CSS/JavaScript
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web) - Great API & Documentation Reference for HTML, CSS, JavaScript
-
-
 * [TodoMVC](http://todomvc.com/) - Excellent tutorial & coverage of all the JavaScript MVC frameworks
 * [Ultimate Guide to Learning AngularJS in One Day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 
