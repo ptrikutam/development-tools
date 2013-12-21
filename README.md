@@ -15,7 +15,7 @@
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web) - Great API & Documentation Reference for HTML, CSS, JavaScript
 * [TodoMVC](http://todomvc.com/) - Excellent tutorial & coverage of all the JavaScript MVC frameworks
 * [Ultimate Guide to Learning AngularJS in One Day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
-
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Comprehensive JS book on Design Patterns by Addy Osmani
 
 ## Miscellaneous
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
