@@ -29,11 +29,16 @@
 
 ## Back End
 
+### General
+* [iodocs](https://github.com/mashery/iodocs) - Interactive API documentation system
 
 ### Ruby 
 * [Sinatra](http://www.sinatrarb.com/) - Lightweight webserver with powerful capabilities
 * [NodeJS](http://nodejs.org/) - Webserver platform written in JavaScript
 
+### PHP
+* [CakePHP](http://cakephp.org/) - MVC Framework for running a PHP web app
+* [Laravel](http://laravel.com/) - MVC Framework
 
 ## Front End
 
@@ -45,11 +50,18 @@
 * [TypeKit](https://typekit.com/) - Include real custom fonts on your website easily.
 
 ### JavaScript
+
+* [CoffeScript](http://coffeescript.org/) - Simple Language that compiles into JS
+
+**Frameworks**
 * [ExpressJS](http://expressjs.com/) - Web Application Framework for NodeJS
 * [AngularJS](http://angularjs.org/) - Angular is a client-side MVC/MVVM framework built in JavaScript.
 * [BackboneJS](http://backbonejs.org/) - An MVC JavaScript Framework.
 * [Ember](http://emberjs.com/) - Another JavaScript Framework
-* [CoffeScript](http://coffeescript.org/) - Simple Language that compiles into JS
+
+**Tools**
+* [accounting.js](https://github.com/josscrowcroft/accounting.js) - A lightweight JavaScript library for number, money and currency formatting
+
 
 ### HTML/View/Markup
 * [Haml](http://haml.info/) - Simple templating language for generating HTML
