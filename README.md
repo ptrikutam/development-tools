@@ -107,3 +107,16 @@
 * Omniplan
 * OmniGraffle
 * join.me
+
+
+# Proposed Re-Structure
+
+These would need to be broken down further by Front End / Back End, then by language.
+
+* Learning
+	* API References
+	* Guides / Tutorials
+* Tools
+	* Frameworks
+	* Libraries
+	* Software / Websites / Services
