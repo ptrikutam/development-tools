@@ -64,8 +64,6 @@
 * [Haml](http://haml.info/) - Simple templating language for generating HTML
 * [Mustache](http://mustache.github.io/) - Templating engine
 * [handlebars](http://handlebarsjs.com/) - A minimal templating system, compatible with Mustache
-
-
 * [Sass](http://sass-lang.com/) - CSS Pre-processor Framework
 * [Compass](http://compass-style.org/) - CSS authoring framework. Useful for working with all the different vendor prefixes & managing your Sass.
 
@@ -76,10 +74,7 @@
 * [A List Apart](http://alistapart.com/) - A List Apart explores the design, development, and meaning of web content, with a special focus on web standards and best practices.
 * [CSS-Tricks](http://css-tricks.com/) - Great blog / reference for various CSS & Front-End related technology maintinaed maintained by Chris Coyier
 
-
 # Useful Apps
-
-
 
 ## Miscellaneous
 
@@ -91,11 +86,8 @@
 * iTerm
 * Sublime Text
 * RVM
-
 * Xcode
-
 * [Cloud9 IDE](https://c9.io/) - Cloud based, in-browser IDE.
-
 * [CodePen](http://codepen.io/) - Build & Share HTML/CSS/JS snippets & code in browser
 * [JSFiddle](http://jsfiddle.net/) - Build & Share HTML/CSS/JS snippets & code in browser
 
@@ -114,5 +106,4 @@
 * Boom
 * Omniplan
 * OmniGraffle
-* AppCleaner
 * join.me
