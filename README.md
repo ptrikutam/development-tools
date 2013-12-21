@@ -14,9 +14,12 @@
 
 #### JavaScript
 * [TodoMVC](http://todomvc.com/) - Excellent tutorial & coverage of all the JavaScript MVC frameworks
-
+* [AngularJS](http://angularjs.org/) - Angular is a client-side MVC/MVVM framework built in JavaScript.
+	* [Ultimate Guide to Learning AngularJS in One Day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 
 ### Development Tools / Libraries
+
+* [Perfect Workflow in Sublime Text](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
 
 ### Front End
 
